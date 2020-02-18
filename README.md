@@ -2,8 +2,8 @@
 
 [![build-status-image]][travis]
 [![pypi-version]][pypi]
-[![Requirements Status](https://requires.io/github/aschn/drf-tracking/requirements.svg?branch=master)](https://requires.io/github/aschn/drf-tracking/requirements/?branch=master)
-[![Coverage Status](https://coveralls.io/repos/github/aschn/drf-tracking/badge.svg?branch=master)](https://coveralls.io/github/aschn/drf-tracking?branch=master)
+[![Requirements Status](https://requires.io/github/abhi1693/drf-tracking/requirements.svg?branch=dependabot%2Fpip%2Fdjango-3.0.3)](https://requires.io/github/abhi1693/drf-tracking/requirements/?branch=dependabot%2Fpip%2Fdjango-3.0.3)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ab36fdd86d224b34a7af0b16437707b4)](https://www.codacy.com/manual/abhi1693/drf-tracking?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abhi1693/drf-tracking&amp;utm_campaign=Badge_Grade)
 
 ## Overview
 
